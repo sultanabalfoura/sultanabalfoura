@@ -21,7 +21,7 @@
 
 ## 🌐 Socials:
 
-Check out [my Resume](https://drive.google.com/file/d/1lzDXAERiDGme8CIk0J2NzSh55GBRcZXA/view?usp=drive_link)
+Check out [my Resume](https://drive.google.com/file/d/1lzDXAERiDGme8CIk0J2NzSh55GBRcZXA/view?usp=drive_link)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sultana-balfoura/) <br>
 
 ![Gmail Badge](https://img.shields.io/badge/-sultanabalfoura-c14438?logo=Gmail&logoColor=white&link=mailto:sultanabalfoura@gmail.com)<br/>

@@ -13,7 +13,7 @@
 </p>
 
 # 💫 About Me:
-* I'm full stack web development.<br>* Proficient in Java, JavaScript, PHP, Python, C#, HTML.<br>* Check out my GitHub Repo to see some of the projects I've worked on.<br>
+* I'm full stack web development.<br>* Proficient in Java, JavaScript, PHP, Python, C#, .NET, n-tier, HTML, bootstrap.<br>* Check out my GitHub Repo to see some of the projects I've worked on.<br>
 
 
 
